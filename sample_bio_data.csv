@@ -1,0 +1,5 @@
+location,bacterial_count,temperature,humidity
+Lab A,750,36.5,72
+Lab B,1600,38.2,78
+Lab C,2800,39.5,81
+Lab D,900,37.0,74
